@@ -1,12 +1,12 @@
-<!-- 깃허브 프로필 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=💫Engineer%20in%20Progress💫&fontSize=60&fontColor=ffffff" />
+<!-- 헤더 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=💫Engineer%20in%20Progress💫&fontSize=70&fontColor=ffffff" />
 
-### 👋 Hello! I'm SangHyuk
+### 👋 Hi there, I'm SangHyuk!
 
-- 💻 I'm a passionate computer science student
-- 🌱 Currently studying **Operating Systems**, **Networks**, and **Cybersecurity**
-- 🚀 Interested in Cloud Security & AI-powered attack detection
-- ✍️ I love organizing my thoughts into code and research
+- 🔭 I’m currently working on **Cloud Security & OS Projects**
+- 🌱 I’m currently learning **xv6, Firestore, Unity, Penetration Testing**
+- 💬 Ask me about **Operating Systems, Cybersecurity, or AI Security**
+- 📫 How to reach me: `sanghyuk.dev@gmail.com`
 
 ---
 
@@ -17,29 +17,23 @@
 
 ---
 
-### 📈 활동 그래프
+### 🧩 Tools & Tech Stack
 
-[![SangHyuk's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SangHyuk&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🛠 Tech Stack
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-### 📫 Contact
+### 🗂️ Recent Activity
 
-- ✉️ Email: `sanghyuk.dev@example.com`
-- 🌐 Blog: [https://sanghyuk.dev](https://sanghyuk.dev)
-- 🧑‍💻 Portfolio: [https://github.com/SangHyuk](https://github.com/SangHyuk)
+[![SangHyuk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SangHyuk&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
+<!-- 푸터 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer"/>
