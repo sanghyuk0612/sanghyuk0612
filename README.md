@@ -2,11 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=💫Engineer%20in%20Progress💫&fontSize=70&fontColor=ffffff" />
 
 ### 👋 Hi there, I'm SangHyuk!
-
-- 🔭 I’m currently working on **Cloud Security & OS Projects**
-- 🌱 I’m currently learning **xv6, Firestore, Unity, Penetration Testing**
-- 💬 Ask me about **Operating Systems, Cybersecurity, or AI Security**
-- 📫 Reach me: `sanghyuk.dev@gmail.com` (or via GitHub Issues 😄)
+-
+- 🌱 I’m currently learning **xv6, security, Unity, database**
+<!-- 💬 Ask me about **Operating Systems, C++, or Unity**-->
+- 📫 Reach me: `x8020@naver.com` (or via GitHub Issues 😄)
 
 ---
 ### 📊 BakJoon Stats
