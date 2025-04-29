@@ -6,18 +6,18 @@
 - 🔭 I’m currently working on **Cloud Security & OS Projects**
 - 🌱 I’m currently learning **xv6, Firestore, Unity, Penetration Testing**
 - 💬 Ask me about **Operating Systems, Cybersecurity, or AI Security**
-- 📫 How to reach me: `sanghyuk.dev@gmail.com`
+- 📫 Reach me: `sanghyuk.dev@gmail.com` (or via GitHub Issues 😄)
 
 ---
 
 ### 📊 GitHub Stats
 
-![SangHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangHyuk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangHyuk&layout=compact)
+![SangHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyuk0612&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyuk0612&layout=compact)
 
 ---
 
-### 🧩 Tools & Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -29,9 +29,9 @@
 
 ---
 
-### 🗂️ Recent Activity
+### 📈 Recent GitHub Activity
 
-[![SangHyuk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SangHyuk&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SangHyuk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanghyuk0612&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
