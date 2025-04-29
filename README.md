@@ -9,6 +9,10 @@
 - 📫 Reach me: `sanghyuk.dev@gmail.com` (or via GitHub Issues 😄)
 
 ---
+### 📊 BakJoon Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjy4545)](https://solved.ac/jjy4545)
+
+---
 
 ### 📊 GitHub Stats
 
