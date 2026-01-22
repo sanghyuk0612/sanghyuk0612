@@ -2,23 +2,24 @@
 
 <div align="center">
 
-### 👋 Hi there, I'm SangHyuk!
+### 👋 안녕하세요, 안드로이드 개발자 상혁입니다!
 
-Currently working as an **Android Developer Intern**, diving deep into **AOSP, JNI, and Modern Android Development**.  
-I am passionate about building scalable applications with **Clean Architecture** and **Multi-module** structures.
+현재 **Android Developer Intern**으로 근무하며, **AOSP, JNI, Modern Android** 기술을 깊이 있게 다루고 있습니다.  
+**Clean Architecture**와 **Multi-module** 구조를 적용하여 유지보수하기 좋고 확장성 있는 앱을 만드는 데 열정을 쏟고 있습니다.
 
 <br/>
 
 ### 🔭 Current Focus & Professional Experience
 > **Android Intern** (Current)
-> - Developing Android applications using **Kotlin** & **Jetpack Compose**.
-> - Implementing **MVVM** pattern within a **Clean Architecture** and **Multi-module** environment.
-> - Working with **AOSP (Android Open Source Project)** and **JNI** for system-level integration.
+> - **Kotlin** & **Jetpack Compose** 기반의 안드로이드 애플리케이션 개발
+> - **Clean Architecture** 및 **Multi-module** 환경 구축
+> - **MVVM** 패턴 적용 및 **Hilt**를 활용한 의존성 주입(DI) 구현
+> - **AOSP (Android Open Source Project)** 빌드 및 **JNI**를 활용한 시스템 통합
 
 <br/>
 
 📫 **Reach me:** `x8020@naver.com`  
-💬 **Ask me about:** Android, AOSP, Unity, C++
+💬 **Ask me about:** Android, AOSP, JNI, Unity
 
 </div>
 
@@ -31,6 +32,7 @@ I am passionate about building scalable applications with **Clean Architecture**
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-000000?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 
 **System & Core**
