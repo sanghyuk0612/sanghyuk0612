@@ -1,33 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&Developer&fontSize=60&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Software%20Developer&fontSize=56&fontColor=ffffff" />
 
 <div align="center">
 
-### 👋 안녕하세요, 개발자 상혁입니다!
+### 👋 안녕하세요, 개발자 상혁입니다
 
-단순한 UI 구현을 넘어,
-안드로이드 애플리케이션이 시스템과 어떻게 연결되고 동작하는지에 대한 이해를 바탕으로 개발해왔습니다.
+단순 기능 구현을 넘어서,  
+애플리케이션이 **시스템과 어떻게 연결되고 동작하는지**를 이해하는 개발을 지향합니다.
 
-Jetpack Compose 기반의 UI 구성 경험과
-MVVM + Repository 패턴을 활용한 구조 설계를 통해
-유지보수성과 확장성을 고려한 아키텍처를 적용해왔습니다.
-또한 Coroutine과 Flow를 활용하여 비동기 처리 및 상태 관리를 수행한 경험이 있습니다.
+UI 계층부터 비즈니스 로직, 그리고 시스템 연동 영역까지의 흐름을 고려하며  
+유지보수성과 확장성을 우선한 구조 설계를 중심으로 개발 경험을 쌓아왔습니다.  
+컴포넌트 간 역할을 명확히 분리하고, 변경에 유연한 아키텍처를 설계하는 데 집중해왔습니다.
 
-Hilt 라이브러리를 이용한 의존성 주입을 통해
-모듈 간 결합도를 낮추고, 테스트와 유지보수가 용이한 구조를 설계했습니다.
+아키텍처 측면에서는  
+MVVM 및 Repository 패턴을 기반으로 한 구조 설계 경험이 있으며,  
+비동기 처리 환경에서는 Coroutine과 Flow를 활용해  
+상태 관리와 데이터 흐름을 안정적으로 제어해왔습니다.
 
-아울러 AOSP 빌드 환경에서의 개발 경험과
-JNI 연동을 통한 Native 코드와 앱 레이어 간 통신 구현을 통해
-애플리케이션과 시스템 레벨 간의 경계를 이해하고 있습니다.
-실무 환경에서 요구되는 안정성과 구조적 완성도를 고려한 개발을 지향합니다.
+의존성 주입을 통해 모듈 간 결합도를 낮추고,  
+테스트와 유지보수가 용이한 구조를 설계한 경험이 있습니다.  
+이를 통해 코드의 책임 범위를 명확히 하고, 규모 확장에 따른 복잡도를 제어하고자 했습니다.
+
+또한 시스템 빌드 환경에서의 개발 경험과  
+Native 코드와 애플리케이션 레이어 간 연동(JNI)을 통해  
+애플리케이션과 시스템 레벨 사이의 경계를 이해하고 있습니다.  
+실무 환경에서 요구되는 안정성과 구조적 완성도를 갖춘 개발을 목표로 합니다.
 
 <br/>
 
 ### 🔭 Current Focus & Professional Experience
-> **Android Intern** (Current)
-> - **Kotlin** & **Jetpack Compose** 기반의 안드로이드 애플리케이션 개발
-> - **Clean Architecture** 및 **Multi-module** 환경 구축
-> - **MVVM** 패턴 적용 및 **Hilt**를 활용한 의존성 주입(DI) 구현
-> - **AOSP (Android Open Source Project)** 빌드 및 **JNI**를 활용한 시스템 통합
+> **Software Engineer Intern (Current)**
+> - 구조 중심의 애플리케이션 개발 및 기능 구현
+> - Clean Architecture 기반의 모듈 분리 및 확장 가능한 설계
+> - 비동기 처리 및 상태 관리 로직 구현
+> - 의존성 주입을 통한 테스트 친화적 구조 설계
+> - 시스템 빌드 환경에서의 개발 경험 및 Native 연동을 통한 시스템 통합
 
 <br/>
 
