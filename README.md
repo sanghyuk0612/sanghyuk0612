@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Android%20Developer%20Intern&fontSize=60&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&Developer&fontSize=60&fontColor=ffffff" />
 
 <div align="center">
 
-### 👋 안녕하세요, 안드로이드 개발자 상혁입니다!
+### 👋 안녕하세요, 개발자 상혁입니다!
 
 단순한 UI 구현을 넘어,
 안드로이드 애플리케이션이 시스템과 어떻게 연결되고 동작하는지에 대한 이해를 바탕으로 개발해왔습니다.
