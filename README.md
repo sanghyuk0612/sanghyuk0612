@@ -75,10 +75,9 @@ Native 코드와 애플리케이션 레이어 간 연동(JNI)을 통해
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanghyuk0612&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyuk0612&layout=compact&theme=tokyonight" width="48%" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanghyuk0612&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyuk0612&layout=compact&theme=tokyonight)
 
 <br>
 
